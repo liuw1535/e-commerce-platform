@@ -12,39 +12,39 @@ e-commerce-platform 项目是一套电商系统，包括 e-commerce-platform 商
 
 - 登录页
 
-![](newbee-mall-vue3-app/static-files/登录.png)
+![](e-commerce-platform-vue3-app/static-files/登录.png)
 
 - 首页
 
-![](newbee-mall-vue3-app/static-files/首页.png)
+![](e-commerce-platform-vue3-app/static-files/首页.png)
 
 - 商品搜索
 
-![](newbee-mall-vue3-app/static-files/商品搜索.png)
+![](e-commerce-platform-vue3-app/static-files/商品搜索.png)
 
 - 商品详情页
 
-![](newbee-mall-vue3-app/static-files/详情页.png)
+![](e-commerce-platform-vue3-app/static-files/详情页.png)
 
 - 购物车
 
-![](newbee-mall-vue3-app/static-files/购物车.png)
+![](e-commerce-platform-vue3-app/static-files/购物车.png)
 
 - 生成订单
 
-![](static-files/生成订单.png)
+![](e-commerce-platform-vue3-app/static-files/生成订单.png)
 
 - 地址管理
 
-![](newbee-mall-vue3-app/static-files/地址管理.png)
+![](e-commerce-platform-vue3-app/static-files/地址管理.png)
 
 - 订单列表
 
-![](newbee-mall-vue3-app/static-files/订单列表.png)
+![](e-commerce-platform-vue3-app/static-files/订单列表.png)
 
 - 订单详情
 
-![](newbee-mall-vue3-app/static-files/订单详情.png)
+![](e-commerce-platform-vue3-app/static-files/订单详情.png)
 
 ## 感谢
 
